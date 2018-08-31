@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/not7cd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://not7cd.net
+  * I am not7cd (https://keybase.io/not7cd) on keybase.
+  * I have a public key with fingerprint 75DE 3E75 8EBE CB90 B6E7  EE6A 8D7D AE55 FF05 5D98
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c379c993031d53ed2ad74b96f9ce0ce71576cdbf14f73b7ca42791a888373fb20a",
+      "fingerprint": "75de3e758ebecb90b6e7ee6a8d7dae55ff055d98",
+      "host": "keybase.io",
+      "key_id": "8d7dae55ff055d98",
+      "kid": "0101c379c993031d53ed2ad74b96f9ce0ce71576cdbf14f73b7ca42791a888373fb20a",
+      "uid": "87314a92bf62dbe9d2d8ff2a74761c19",
+      "username": "not7cd"
+    },
+    "service": {
+      "hostname": "not7cd.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1509219839,
+  "expire_in": 157680000,
+  "prev": "9b02abc64b5c8e2cd13423e8574edbd7075ae366f5af1ab9454a0b2dbc7feee8",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIfAnicrVJbSBVRFL3XUvFmEfVRRAVNQRom8z4zl+gNUUQvsDCyy3ns8U7qzO3e
+UbM0VJDoBWWBEiVRpj1ALCgoksqKoPoQKnqQURph2FMtsKLbmR4fQZ+dn8NZZ621
+197sG6NHBELBvVVtecnUgsbgnWsHSgP5Q93JbQJxWYUQ3iYUwc8LihkkvEiRzYSw
+IEqiRBVkUtNUREVimgJMxgypxNQtk4JIAUka0ikjlqRaSCGIYlVGpoQNw1CQYhFZ
+xEKOYNlOIcRjcdvxuC3SGCiANAMIUGKKRAcEoGODIYZB0yxL1DRmGlwYdRO+gocj
+OAG5tssx/oj8jPcP/n/OXfqrDlIkFZsysXSZETCZzAzLkjFSkS5RyfSJCYg7uAQ4
+23E9RJlQlSNwrMym4I/V7+Ov/1wHPK6LxV3PpW4xx6OeFwv7Mq8i5vPKgUR+O0SI
+7TA+Qi4og3jCdh0hLHEm9WzfUtJEU5ZMQzFzBNgSs+MQsX0G79AQ+fHLQBm3NIko
+Y0J1lWjUAJkySVFlBQwNqcAIQyLSMCi6bmnYkjAxVU3FIuE9U2QBgD/gBGx2XCGs
+aDwnLuSeCbvQwV5pHISqzqsbRgaCoUBaaoq/W4FQxtg/G1cTTE+6oTPtXXeH9kwZ
+CmS9HdM09jDL7Y6fW1me9vT4YGvX2pP7d2esETaeeHcqKr6al5yQlbnuQl7HjqT8
+ojKJsmfO/HosX888dqihoeX89NZ+1B2YODx7YUpm/vPYVffhyqjRV1N3a9XUD1pO
++zSnZyB9Usftl6H6p9EzuGVFXXPH8r7gx/LtB9Pba6CS1lVNPvela9ec0/vqB1Yv
+qb/yqZpltz2e0JPaOz9QO+5mU8Uysnin9PmsUHAqOz9twb7mTTdm3O8taDmyd2N/
+3sVq+qRz8Pr4jJvvd3679+bS9aPdD5Y+mluStf505/dnWVsvHym1Fy/ra6x0pjfe
+b2gaVft60ay24prh8A8yrUiS
+=BAPD
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/not7cd
+
+==================================================================
