@@ -1,11 +1,9 @@
 ---
-title: "Jak się uczyć?"
-slug: jak-sie-uczyc
+title: "Links"
+slug: links
 date: "2018-02-04T17:37:12+01:00"
 ---
-Nie wiem. 
-
-Ale tu jest lista różnych zasobów, które w jakiś sposób mi pomogły:
+Tu jest lista różnych zasobów, które w jakiś sposób mi pomogły:
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) - najwyżej oceniany kurs na platformie. Pomógł mi zrozumieć pewne procesy.
 - [How to Study: A Brief Guide](https://www.cse.buffalo.edu//~rapaport/howtostudy.html)
